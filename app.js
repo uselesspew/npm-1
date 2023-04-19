@@ -8,6 +8,3 @@ console.log("Souceet: ", sum);
 for (let i = 0; i < 10; i++) {
     console.log("Cyklus poradi: ", i);
 }
-
-PROCVICOVANI JS 
-SOLR
